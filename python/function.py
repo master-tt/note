@@ -129,4 +129,3 @@ print(map(lambda x: x * x, [1, 2, 3]))  # [1, 4, 9]
 
 a, b, c = (lambda: (1, 3, 5))()
 print(a, b, c)
-
